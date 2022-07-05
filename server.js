@@ -12,5 +12,5 @@ var routes = require("./routes");
 routes(app);
 
 app.listen(3000, () => {
-  console.log(`Server Starter on Port`);
+  console.log(`Server Starter on Port 3000`);
 });
